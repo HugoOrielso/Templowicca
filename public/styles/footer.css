@@ -1,0 +1,30 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    z-index: 1000;
+    border-top: solid gray .5px;
+}
+
+footer > div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    place-content: center;
+    place-items: center;
+}
+
+.container-icon-redes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer.glass-footer {
+    background: rgba(12, 12, 12, 0.2); /* Ajusta la opacidad según tus preferencias */
+    backdrop-filter: blur(10px); /* Crea el efecto de desenfoque */
+    text-align: center;
+}
