@@ -27,7 +27,7 @@ const Contacto = () => {
         () => {
           toast.success("Hemos recibido tu consulta, te contactaremos lo más pronto posible.")
         },
-        (error) => {
+        (_error) => {
           toast.error("Ocurrió un error al enviar la consulta, intenta de nuevo.")
         },
       );

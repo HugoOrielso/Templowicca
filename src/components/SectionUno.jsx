@@ -23,7 +23,7 @@ const SectionUno = () => {
                 </div>
                 <div>
                     <h1 className='p-principal'>Templo de Wicca y magia</h1>
-                    <h2 className='p-secundario'> +57 320 5650 747</h2>
+                    <h2 className='p-secundario'> +14 504 973 885</h2>
                     <h2 className='p-secundario'>Maestra Laura</h2>
                 </div>
 
