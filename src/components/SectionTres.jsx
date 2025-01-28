@@ -4,7 +4,7 @@ import fortuna from '/Imagenes/imagenesComplementarias/fortuna.jpg'
 import amuletos from '/Imagenes/imagenesComplementarias/amuletos.jpg'
 import muerteDos from '/Imagenes/santaMuerteDos.jpg'
 import revelaciones from '/Imagenes/imagenesComplementarias/revelaciones.jpg'
-
+import {Link} from 'react-router-dom'
 
 import videoPortada from '/Imagenes/videoPortada.mp4'
 import Svg from './Svg'
@@ -54,7 +54,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>A través de las cartas, podemos ayudarte a explorar los patrones de tu relación y a entender las razones detrás de tus sentimientos y pensamientos.</p>
             <p style={{textAlign: "start"}}>A veces, el tarot puede revelar información que te permita tomar decisiones importantes sobre tu relación y el futuro de tu vida amorosa.</p>
 
-            <a target='_blank' rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&%20%20%20%20%20text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amarre <Svg/> </a>
+            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&%20%20%20%20%20text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amarre <Svg/> </Link>
           </div>
 
           <div  className='wrapper'  >
@@ -70,7 +70,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>Descubre el poder de la protección y la buena fortuna a través de amuletos personalizados.</p>
             <p style={{textAlign: "start"}}>En mi servicio, creo amuletos cargados de energía positiva y simbolismo especial para acompañarte en tu jornada.</p>
             <p style={{textAlign: "start"}}>Desde piedras hasta símbolos sagrados, cada amuleto se confecciona con cuidado y se carga con intenciones positivas.</p>
-            <a target='_blank' rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amuleto <Svg/></a>
+            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amuleto <Svg/></Link>
           </div>
 
           <div  className='wrapper'>
@@ -85,7 +85,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>Descubre la tranquilidad y seguridad con nuestro servicio de protección personalizada.</p>
             <p style={{textAlign: "start"}}>Enfrenta la vida con confianza, sabiendo que estás rodeado de energías positivas y resguardado por capas de protección espiritual.</p>
             <p style={{textAlign: "start"}}>Confía en nuestro enfoque ético y profesional para crear un escudo espiritual que te acompañe en tu día a día. Protege tu bienestar emocional y físico, y da un paso hacia un futuro más seguro y equilibrado.</p>
-            <a target='_blank' rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero protegerme <Svg/></a>
+            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero protegerme <Svg/></Link>
           </div>
 
           <div  className='wrapper'>
@@ -100,7 +100,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>En la senda esotérica, la búsqueda de la fortuna va más allá de lo material, abarcando dimensiones energéticas y espirituales.</p>
             <p style={{textAlign: "start"}}>La creencia en la influencia de las energías cósmicas y el poder de la intención son fundamentales para quienes exploran el esoterismo como un camino hacia la abundancia.</p>
             <p style={{textAlign: "start"}}>Es importante recordar que, independientemente del camino que elijas, la ética y el respeto deben guiar tus acciones. La fortuna auténtica se encuentra no solo en la materialidad, sino también en el equilibrio espiritual y emocional de nuestras vidas.</p>
-            <a target='_blank' rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero la fortuna <Svg/></a>
+            <Link  to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero la fortuna <Svg/></Link>
           </div>
 
           <div  className='wrapper'>
@@ -116,7 +116,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>Sumérgete en el fascinante mundo de las revelaciones con nuestro servicio especializado.</p>
             <p style={{textAlign: "start"}}>A través de prácticas esotéricas y lecturas intuitivas, desvelaremos los misterios ocultos en tu camino y te proporcionaremos claridad sobre tu pasado, presente y futuro.</p>
             <p style={{textAlign: "start"}}>Permítenos ser tu brújula espiritual en este viaje de autoconocimiento. Conecta con las revelaciones que te aguardan y da un paso hacia una vida más consciente y plena.</p>
-            <a target='_blank' rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero una revelación <Svg/></a>
+            <Link rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero una revelación <Svg/></Link>
 
           </div>
         </ul>
