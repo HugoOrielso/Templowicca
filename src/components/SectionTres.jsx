@@ -54,7 +54,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>A través de las cartas, podemos ayudarte a explorar los patrones de tu relación y a entender las razones detrás de tus sentimientos y pensamientos.</p>
             <p style={{textAlign: "start"}}>A veces, el tarot puede revelar información que te permita tomar decisiones importantes sobre tu relación y el futuro de tu vida amorosa.</p>
 
-            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&%20%20%20%20%20text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amarre <Svg/> </Link>
+            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=13462102396&%20%20%20%20%20text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amarre <Svg/> </Link>
           </div>
 
           <div  className='wrapper'  >
@@ -70,7 +70,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>Descubre el poder de la protección y la buena fortuna a través de amuletos personalizados.</p>
             <p style={{textAlign: "start"}}>En mi servicio, creo amuletos cargados de energía positiva y simbolismo especial para acompañarte en tu jornada.</p>
             <p style={{textAlign: "start"}}>Desde piedras hasta símbolos sagrados, cada amuleto se confecciona con cuidado y se carga con intenciones positivas.</p>
-            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amuleto <Svg/></Link>
+            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=13462102396&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero un amuleto <Svg/></Link>
           </div>
 
           <div  className='wrapper'>
@@ -85,7 +85,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>Descubre la tranquilidad y seguridad con nuestro servicio de protección personalizada.</p>
             <p style={{textAlign: "start"}}>Enfrenta la vida con confianza, sabiendo que estás rodeado de energías positivas y resguardado por capas de protección espiritual.</p>
             <p style={{textAlign: "start"}}>Confía en nuestro enfoque ético y profesional para crear un escudo espiritual que te acompañe en tu día a día. Protege tu bienestar emocional y físico, y da un paso hacia un futuro más seguro y equilibrado.</p>
-            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero protegerme <Svg/></Link>
+            <Link  rel='noreferrer' to="https://api.whatsapp.com/send?phone=13462102396&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero protegerme <Svg/></Link>
           </div>
 
           <div  className='wrapper'>
