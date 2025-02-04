@@ -4,7 +4,7 @@ import fondo from '/Imagenes/fondo-01.jpg'
 import SliderWord from './SliderWord'
 import ButtonConsulta from './ButtonConsulta'
 const SectionUno = () => {
-    const words = ["Colombia", "México", "Uruguay", "latinoamérica", "Estados unidos" ]
+    const words = ["México", "Uruguay", "latinoamérica", "Estados unidos" ]
     const time = 200
   return (
     <>
@@ -23,7 +23,6 @@ const SectionUno = () => {
                 </div>
                 <div>
                     <h1 className='p-principal'>Templo de Wicca y magia</h1>
-                    <h2 className='p-secundario'> +14 504 973 885</h2>
                     <h2 className='p-secundario'>Maestra Laura</h2>
                 </div>
 

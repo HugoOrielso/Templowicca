@@ -100,7 +100,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>En la senda esotérica, la búsqueda de la fortuna va más allá de lo material, abarcando dimensiones energéticas y espirituales.</p>
             <p style={{textAlign: "start"}}>La creencia en la influencia de las energías cósmicas y el poder de la intención son fundamentales para quienes exploran el esoterismo como un camino hacia la abundancia.</p>
             <p style={{textAlign: "start"}}>Es importante recordar que, independientemente del camino que elijas, la ética y el respeto deben guiar tus acciones. La fortuna auténtica se encuentra no solo en la materialidad, sino también en el equilibrio espiritual y emocional de nuestras vidas.</p>
-            <Link  to="https://api.whatsapp.com/send?phone=14504973885&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero la fortuna <Svg/></Link>
+            <Link  to="https://api.whatsapp.com/send?phone=13462102396&     text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero la fortuna <Svg/></Link>
           </div>
 
           <div  className='wrapper'>
@@ -116,7 +116,7 @@ const SectionTres = () => {
             <p style={{textAlign: "start"}}>Sumérgete en el fascinante mundo de las revelaciones con nuestro servicio especializado.</p>
             <p style={{textAlign: "start"}}>A través de prácticas esotéricas y lecturas intuitivas, desvelaremos los misterios ocultos en tu camino y te proporcionaremos claridad sobre tu pasado, presente y futuro.</p>
             <p style={{textAlign: "start"}}>Permítenos ser tu brújula espiritual en este viaje de autoconocimiento. Conecta con las revelaciones que te aguardan y da un paso hacia una vida más consciente y plena.</p>
-            <Link rel='noreferrer' to="https://api.whatsapp.com/send?phone=14504973885&text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero una revelación <Svg/></Link>
+            <Link rel='noreferrer' to="https://api.whatsapp.com/send?phone=13462102396&text=Hola%20me%20interesa%20tu%20servicio%20de%20esoterismo" className='btn-servicios' >Quiero una revelación <Svg/></Link>
 
           </div>
         </ul>

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
+// eslint-disable-next-line react/prop-types
 const SliderWord = ({words , interval}) => {
     const [ intervalCurrentIndex , setIntervalCurrentIndex] = useState(0)
     const [ listNumber , setListNumbers ] = useState([])
@@ -10,8 +11,6 @@ const SliderWord = ({words , interval}) => {
     function verificarNumber (number,lastNumber){
         if(intervalCurrentIndex !== lastNumber){
             setIntervalCurrentIndex(randomNumber)
-        }else{
-
         }
     }
     useEffect(() => {
